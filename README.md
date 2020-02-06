@@ -2,8 +2,7 @@
 
 Muzip is a handy little command-line tool to review the contents of a zip archive containing music.
 
-**Supported formats:**
-- FLAC
+**Currently supported formats:**
 - MP3
 
 
